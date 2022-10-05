@@ -1,3 +1,6 @@
+## This approach gest the job done, but there are four iteration over
+## the sequence.
+
 fname = 'rosalind_dna.txt'
 f = open(fname,'r')
 seq = f.read()
